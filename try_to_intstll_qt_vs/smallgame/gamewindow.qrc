@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/GameWindow">
+        <file>cursor/Artboard1.png</file>
+        <file>sprites/qpixmap_sprite.png</file>
+    </qresource>
+</RCC>

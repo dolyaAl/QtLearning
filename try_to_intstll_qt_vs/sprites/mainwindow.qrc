@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MainWindow"/>
+    <qresource prefix="/images">
+        <file>qpixmap_sprite.png</file>
+    </qresource>
+</RCC>

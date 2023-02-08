@@ -1,0 +1,21 @@
+#include "mainwindow.h"
+
+MainWindow::MainWindow(QWidget *parent)
+    : QMainWindow(parent)
+{
+    ui->setupUi(this);
+    connect(ui->search, &QPushButton::clicked, this, &MainWindow::sendRequest);
+}
+
+MainWindow::~MainWindow()
+{}
+
+void MainWindow::sendRequest()
+{
+    if(m_reply != nullptr && m_reply->isRunning())
+    {
+        m_reply->abort();
+    }
+    ui->result->clear();
+
+}

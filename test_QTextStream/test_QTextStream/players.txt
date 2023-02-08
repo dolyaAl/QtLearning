@@ -1,0 +1,11 @@
+     Player      Experience   Position    Direction
+SOME_NAME                 0      0      0   south   
+SOME_NAME                 0      0      0   south   
+SOME_NAME                 0      0      0   south   
+SOME_NAME                 0      0      0   south   
+SOME_NAME                 0      0      0   south   
+SOME_NAME                 0      0      0   south   
+SOME_NAME                 0      0      0   south   
+SOME_NAME                 0      0      0   south   
+SOME_NAME                 0      0      0   south   
+SOME_NAME                 0      0      0   south   
